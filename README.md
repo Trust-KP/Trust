@@ -3,8 +3,8 @@
 **Author:** KP  
 **Status:** Public record  
 **Versions:**  
-– Trust Equilibrium Framework v0.1 (Frozen)  
-– Trust Descriptive Framework v0.2  
+– Trust Equilibrium Framework v0.2 (Frozen)  
+– Trust Descriptive Framework v0.1 (Frozen)  
 **Date:** 09 Feb 2026
 
 ---
@@ -34,7 +34,7 @@ This framework:
 This document is **formal and conditional**.  
 All conclusions depend explicitly on stated assumptions.
 
-**Status:** Frozen (v0.1)  
+**Status:** Frozen (v0.2)  
 Any future revisions, if released, will be published as separate versions.
 
 ---
@@ -55,6 +55,9 @@ It does **not**:
 
 This document is **descriptive, not normative**.  
 It does not override, revise, or modify the Trust Equilibrium Framework.
+
+**Status:** Frozen (v0.1)  
+Any future revisions, if released, will be published as separate versions.
 
 ---
 
