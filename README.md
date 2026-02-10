@@ -1,6 +1,6 @@
 # Trust Frameworks
 
-**Author:** Kok Pian Gew  
+**Author:** KP  
 **Status:** Public record  
 **Versions:**  
 – Trust Equilibrium Framework v0.1 (Frozen)  
