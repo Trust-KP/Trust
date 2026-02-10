@@ -1,99 +1,125 @@
 # Trust Frameworks
 
-Author: KP  
-Status: Public record  
-Version: Core Framework v0.1 (Frozen), Descriptive Framework v0.2  
-Date: 09 Feb 2026
+**Author:** Kok Pian Gew  
+**Status:** Public record  
+**Versions:**  
+– Trust Equilibrium Framework v0.1 (Frozen)  
+– Trust Descriptive Framework v0.2  
+**Date:** 09 Feb 2026
 
 ---
 
 ## Overview
 
-This repository contains two related but distinct documents concerning trust under uncertainty:
+This repository contains two related but epistemically distinct frameworks concerning trust under conditions of uncertainty.
 
-1. **Trust Equilibrium Framework**  
-   A formal, conditional framework modelling trust as a retrospective system variable.
+They are released as public records for inspection, critique, comparison, or rejection.
 
-2. **Trust Descriptive Framework**  
-   A descriptive, non-normative framework outlining distinct modes of trust and their common confusions.
-
-The documents are intended for inspection, critique, comparison, or rejection.  
-They are not a product, proposal, or prescription.
+They are **not** a product, proposal, policy recommendation, or prescription.
 
 ---
 
-## Document Roles
+## Frameworks
 
-### 1. Trust Equilibrium Framework (Normative / Formal)
+### 1. Trust Equilibrium Framework (Formal / Conditional)
 
-- Defines trust as a retrospective, ledger-based quantity
-- Describes decay, accumulation, loss, and decision thresholds
-- Explicitly non-moral and non-psychological
-- Applicable to bounded systems operating under uncertainty, including simulations and agentic systems
-- Released for record and reference only
+A formal, conditional framework modelling trust as a retrospective system variable.
 
-This document is **formal** and **conditional**.  
-All conclusions depend on stated assumptions.
+This framework:
+- defines trust as a ledger-based, retrospective quantity  
+- describes accumulation, decay, loss, and decision thresholds  
+- is explicitly non-moral and non-psychological  
+- is applicable to bounded systems operating under uncertainty, including simulations and agentic systems  
 
-Status: **Frozen (v0.1)**  
-Further revisions, if any, will be released as separate versions.
+This document is **formal and conditional**.  
+All conclusions depend explicitly on stated assumptions.
+
+**Status:** Frozen (v0.1)  
+Any future revisions, if released, will be published as separate versions.
 
 ---
 
 ### 2. Trust Descriptive Framework (Descriptive / Explanatory)
 
-- Describes multiple, incompatible modes of trust
-- Clarifies why trust failures often arise from category errors
-- Provides linguistic and conceptual distinctions only
-- Does not define models, metrics, governance rules, or optimisation criteria
+A descriptive, non-normative framework outlining distinct modes of trust and common category confusions.
 
-This document is **descriptive**, not normative.  
-It does not override or modify the Trust Equilibrium Framework.
+This framework:
+- describes multiple, incompatible modes of trust  
+- clarifies why trust failures often arise from category errors  
+- provides linguistic and conceptual distinctions only  
+
+It does **not**:
+- define models or metrics  
+- prescribe governance or behaviour  
+- propose optimisation criteria  
+
+This document is **descriptive, not normative**.  
+It does not override, revise, or modify the Trust Equilibrium Framework.
+
+---
+
+## Relationship Between Frameworks
+
+The two frameworks occupy **different epistemic categories**.
+
+- The *Descriptive Framework* provides interpretive and linguistic clarity.  
+- The *Equilibrium Framework* provides a formal, conditional model.
+
+They may be read independently and should not be collapsed into a single system.
 
 ---
 
 ## Scope
 
 These frameworks address:
-- Trust under uncertainty
-- Systemic continuity and failure
-- Interpretive and formal distinctions in trust usage
+- trust under uncertainty  
+- systemic continuity and failure  
+- interpretive and formal distinctions in trust usage  
 
 They do **not** address:
-- Moral or ethical justification
-- Psychological completeness
-- Policy recommendations
-- Empirical calibration
-- Product design or implementation details
-
----
-
-## Relationship Between Documents
-
-The Trust Descriptive Framework provides interpretive clarity.  
-The Trust Equilibrium Framework provides a formal model.
-
-They operate in different epistemic categories and should not be collapsed.
+- moral or ethical justification  
+- psychological completeness  
+- policy recommendations  
+- empirical calibration  
+- product design or implementation details  
 
 ---
 
 ## Use and Misuse
 
-These frameworks may be cited, critiqued, or repurposed.  
+These frameworks may be cited, critiqued, discussed, or repurposed.
+
 They may also be misused.
 
-No endorsement, authority, or correctness is implied by their publication.
+No endorsement, authority, correctness, or suitability for any purpose is implied by their publication.
 
 ---
 
-## License / Rights
+## Licence and Rights
 
-This material is released as a public record.  
-No warranties are provided.
+This repository is released as a public record.
+
+Unless otherwise stated, the contents are licensed under  
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).**
+
+This permits:
+- reading, sharing, and citation with attribution  
+- non-commercial research, discussion, and derivative work  
+
+This does **not** permit:
+- commercial use  
+- monetisation  
+- inclusion in paid products or services  
+- commercial consulting or AI systems  
+
+All commercial rights are expressly reserved by the author.
+
+Commercial use — including fictional, narrative, software, simulation, or AI-based applications — may be authorised **only by prior written agreement**.
 
 ---
 
 ## Notes
 
-This repository exists to establish a stable reference point.  
+This repository exists to establish a stable reference point.
+
 Active circulation, advocacy, or promotion is not intended.
