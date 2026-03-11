@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "The Trust Framework"
-message: "If you use this framework, please cite it as below."
-type: dataset
+message: "If you use or reference concepts derived from the Trust Framework, please cite this work."
+type: software
 authors:
   - family-names: Gew
     given-names: Kok Pian
@@ -9,3 +9,9 @@ date-released: 2026
 version: 1.0
 repository-code: https://github.com/Trust-KP/Trust
 license: CC-BY-NC-4.0
+keywords:
+  - trust
+  - cooperation systems
+  - uncertainty
+  - institutional systems
+  - coordination theory
