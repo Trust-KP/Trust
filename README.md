@@ -1,9 +1,10 @@
 # The Trust Framework
 
-Author: Kok Pian Gew  
-Year: 2026  
-Status: Public Reference Document
+This repository establishes the original conceptual formulation of the Trust Framework.
 
+Author: Kok Pian Gew  
+Status: Public record  
+Date: 2026
 ---
 
 ## Overview
