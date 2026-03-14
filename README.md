@@ -82,6 +82,36 @@ The Trust Framework explores:
 
 The framework does not attempt to prescribe policy, governance structures, or specific implementations.
 
+## Related Components
+
+The Trust Framework is part of a broader intellectual project
+exploring how cooperative systems persist under uncertainty.
+
+Additional materials in this repository include:
+
+Book
+
+Human-readable explanation of the conceptual framework.
+
+Location:
+Book/
+
+Fiction
+
+Narrative exploration of life within a trust-based
+civilizational coordination system.
+
+Location:
+Fiction/
+
+Video
+
+Short conceptual explanations designed for visual
+communication of key ideas.
+
+Location:
+Video/
+
 ---
 
 ## Citation
