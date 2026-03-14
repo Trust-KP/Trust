@@ -10,6 +10,13 @@ Version: 1.0
 Year: 2026  
 Status: Working Paper
 
+Official DOI for this release:
+https://doi.org/10.5281/zenodo.18974211
+
+This document represents the canonical description of the Trust Framework
+for version 1.0 within the archived repository snapshot.
+
+
 The Trust Framework describes how cooperation emerges and
 persists within coexistence systems through the interpretation
 of contribution signals across time.
@@ -19,9 +26,11 @@ of the **Continuation Framework**, which studies how cooperative
 systems maintain persistence across time under conditions of
 uncertainty.
 
-Reference:
-Gew, K. P. (2026). *Continuation Framework v0.1*.  
-Zenodo. https://doi.org/10.5281/zenodo.18974211
+## Reference
+Gew, K. P. (2026).  
+*Continuation Framework v0.1*.  
+Zenodo.  
+https://doi.org/10.5281/zenodo.18974211
 ---
  
 © 2026 Kok Pian Gew
