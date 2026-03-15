@@ -54,15 +54,19 @@ Human social systems differ in an important respect. Their continuation depends 
 
 ## Stability and Adaptive Behaviour
 
-Deterministic processes often provide stability within complex systems. Mechanical systems, engineering structures, and automated processes operate through relationships in which behaviour follows predictable rules. When these processes are functioning correctly, the resulting outcomes can be reproduced with high reliability.
+Stable processes often play an important role in sustaining the continuation of complex systems.
 
-Machines and automated systems therefore play an important role in maintaining stability within many modern institutions. Industrial production systems, digital infrastructure, and increasingly artificial intelligence systems allow large numbers of activities to occur with consistent and predictable results.
+Many systems rely on mechanisms that produce consistent and predictable outcomes. Industrial machinery operates according to fixed mechanical relationships, digital infrastructure executes programmed instructions, and automated processes perform tasks with high levels of reliability. These stable processes allow large systems to function efficiently because their behaviour can be anticipated and reproduced.
 
-Living systems operate differently. Organisms and human agents respond to their environment, learn from experience, and adapt their behaviour. This adaptive capacity introduces variation into the system. Although such variation may generate uncertainty, it also allows systems to respond to changing conditions and develop new forms of organization.
+Such stability allows societies to build large-scale infrastructures, production systems, and institutions that operate with a high degree of regularity.
 
-Complex societies therefore contain both stabilizing and adaptive elements. Stable processes provide reliability, while adaptive behaviour allows systems to adjust, innovate, and grow.
+At the same time, many systems also contain adaptive components. Living organisms respond to changing environments, learn from experience, and adjust their behaviour over time. Human agents interpret information, form expectations, and make decisions that influence how systems evolve.
 
-The coexistence of stability and uncertainty creates the conditions under which coordination mechanisms become necessary. When outcomes cannot be fully determined in advance, participants must form expectations regarding how others are likely to behave within shared systems.
+Adaptive behaviour introduces variation into the system. While this variation allows systems to respond to changing conditions and develop new capabilities, it also means that outcomes cannot always be predicted with certainty.
+
+Complex societies therefore combine both stabilizing and adaptive elements. Stable processes provide reliability and structure, while adaptive agents introduce flexibility and the capacity for change.
+
+The presence of adaptive behaviour means that the continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
 
 ---
 
