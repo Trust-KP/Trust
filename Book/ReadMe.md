@@ -85,10 +85,9 @@ Copyright © 2026 Kok Pian Gew
 
 All rights reserved.
 
-The contents of the Book directory are not released under the
-repository's default Creative Commons license.
+The contents of the Book directory are not released under the repository's default Creative Commons license.
 
-Permission is granted to read the manuscript within this repository
-for personal and non-commercial purposes.
+Permission is granted to read the manuscript within this repository for personal and non-commercial purposes.
 
-Redistribution or republication without written permission from the author is prohibited.
+Readers are welcome to reference or link to this repository.
+Redistribution of the manuscript files outside the official repository is not permitted without the author's consent.
