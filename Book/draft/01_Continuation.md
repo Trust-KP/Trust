@@ -4,7 +4,7 @@ Status: Draft
 
 ## Introduction
 
-Human societies depend on cooperation between individuals whose future behaviour cannot be fully known.
+Human societies depend on continuation just as biological and physical systems do, but the mechanisms that sustain them are fundamentally different.
 
 Every day, people rely on others to fulfil responsibilities, deliver work, honour commitments, and maintain institutions. Families function through mutual reliance, organizations depend on coordinated effort, and entire civilizations persist only when individuals and institutions continue to contribute to shared systems.
 
