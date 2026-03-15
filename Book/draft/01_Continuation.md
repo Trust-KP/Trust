@@ -16,7 +16,7 @@ This book begins by examining the most basic condition shared by all systems tha
 
 ---
 
-## Continuation
+## Continuation as the Fundamental Condition
 
 Continuation refers to the persistence of a system through time.
 
@@ -30,7 +30,7 @@ Understanding how systems maintain continuation therefore provides the starting 
 
 ---
 
-## Biological Continuation
+## Continuation in Biological and Physical Systems
 
 The principle of continuation is not unique to human societies. It is a fundamental property of living systems.
 
@@ -43,10 +43,6 @@ At larger scales, ecosystems exhibit similar properties. The persistence of ecol
 Biological systems therefore illustrate a basic principle: systems persist only when the processes required for their continuation remain active.
 
 This principle provides a useful foundation for understanding the continuation of social systems.
-
----
-
-## Predictability and Embedded Coordination
 
 Different systems achieve coordination through different mechanisms.
 
@@ -90,7 +86,7 @@ The continuation of social systems therefore depends on the ongoing participatio
 
 ---
 
-## Participation Under Uncertainty
+## Uncertainty and Participation
 
 Because individuals cannot fully observe the future behaviour of others, participation in cooperative systems occurs under conditions of uncertainty.
 
