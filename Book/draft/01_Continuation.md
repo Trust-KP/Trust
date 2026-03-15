@@ -102,6 +102,8 @@ The persistence of such systems suggests that mechanisms exist which allow parti
 
 Understanding how such expectations arise is essential for explaining how cooperative systems sustain their continuation across time.
 
+Because future behaviour cannot be directly observed, individuals rely on traces of past behaviour — the signals produced by previous actions — when forming expectations about whether cooperation can continue.
+
 ---
 
 ## Toward Coordination
