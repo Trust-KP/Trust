@@ -1,10 +1,68 @@
 ## Part 4 – Institutional Applications
 
-### Application A: Capability Lens – Marine Insurance Trust Market (SIM F)
+This application uses the capability lens to examine how different institutional doctrines perform over time under a common trust environment. 
+
+The objective is not to optimise a particular insurance product, but to test how combinations of underwriting discipline, capital management, and renewal behaviour behave as institutional capabilities within the Trust Framework.
+
+# Application A: Capability Lens – Marine Insurance Trust Market (SIM F)
 
 This section will present a detailed case study of the Trust Framework
 applied to a multi-agent marine insurance market. The SIM F model
 implements contribution, trust, credibility, credit, coordination,
 coexistent systems, and continuation in a single simulation engine.
+
+## Role of SIM F in the Trust Framework
+SIM F is a self‑contained simulation of a marine insurance market with multiple agents writing shared risks. 
+
+It is not part of the core Trust Framework; rather, it serves as a worked example showing how the abstract layers of:
+
+- contribution,
+- trust formation,
+- credibility formation,
+- credit formation,
+- temporal coordination,
+- coordination boundary,
+- coexistent systems, and
+- continuation,
+
+can be implemented in one concrete institutional setting.
+
+#### Mapping of Trust Framework layers into SIM F (informal)
+
+| Trust layer             | SIM F illustration (marine market)                            |
+|-------------------------|---------------------------------------------------------------|
+| Contribution            | Premium − loss delivered per period (per agent, per voyage)  |
+| Trust formation         | Owner and market renewal decisions, ORR paths                |
+| Credibility formation   | Stable line share and market allocation over time            |
+| Credit formation        | Capital and RC committed to shared risks                     |
+| Temporal coordination   | Multi‑turn evolution of capital, float, and renewal cycles   |
+| Coordination boundary   | Line allocation rules, prudential and investor constraints   |
+| Coexistent systems      | Three doctrines coexisting on the same voyages               |
+| Continuation            | Solvent active vs runoff vs trust collapse vs insolvency     |
+
+The Trust Framework itself does not depend on any specific simulation. SIM F is deliberately presented as a separate, optional case study. 
+
+All definitions and results in Parts 1–3 remain valid whether or not a particular application like SIM F is used. 
+
+The advantage of SIM F is that it allows the abstract statements about trust, credibility and continuation to be tested and illustrated in a controlled environment.
+
+The same pattern can be replicated in other domains (bank funding markets, clearing houses, platforms) without depending on any marine‑specific assumptions.
+
+Although this application uses a marine insurance market, the structure of SIM F is deliberately generic:
+
+
+agents with doctrines and capital,
+
+
+shared exposures,
+
+
+bilateral trust and renewal decisions, and
+
+
+multiple institutional failure nodes.
+
+
+The same pattern can be translated into other institutional settings (for example, interbank funding networks or clearing membership), providing a reusable blueprint for capability‑lens applications of the Trust Framework.
 
 (Full technical specification and data: see Applications/CapabilityLens/SIM_F/)
