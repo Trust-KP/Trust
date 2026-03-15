@@ -38,29 +38,17 @@ Understanding how such systems continue therefore requires examining how coordin
 
 ## Continuation in Biological and Physical Systems
 
-The principle of continuation is not unique to human societies. It is a fundamental property of living systems.
+Biological and physical systems often continue through processes in which coordination is embedded within the structure of the system itself.
 
-Biological organisms persist only when the processes necessary for survival are maintained. Cells sustain metabolic activity, regulate internal conditions, and respond to environmental changes in order to remain viable. Within multicellular organisms, tissues and organs coordinate activity to maintain the functioning of the body as a whole.
+In biological organisms, continuation depends on complex internal processes that regulate metabolism, growth, and repair. Cells interact through chemical signals, organs perform specialized functions, and regulatory systems maintain internal stability. These processes operate without the need for conscious coordination between independent agents. The organism continues because its internal mechanisms maintain the conditions necessary for life.
 
-If these processes fail, the organism can no longer sustain itself and continuation ceases.
+Physical systems exhibit similar forms of embedded coordination. Planetary motion follows stable gravitational relationships, rivers flow according to physical gradients, and mechanical systems operate according to the forces governing their components. When these governing relationships remain intact, the system continues in a predictable manner.
 
-At larger scales, ecosystems exhibit similar properties. The persistence of ecological systems depends on the continued interaction of organisms within their environments. When critical relationships within an ecosystem collapse, the system may lose stability and eventually transform or disappear.
+In both biological and physical systems, coordination is largely embedded within the structure of the system itself. The behaviour of individual components is constrained by underlying mechanisms that guide the system toward stable patterns of continuation.
 
-Biological systems therefore illustrate a basic principle: systems persist only when the processes required for their continuation remain active.
+Because these processes operate through stable relationships, their continuation can often be understood through regular and predictable patterns.
 
-This principle provides a useful foundation for understanding the continuation of social systems.
-
-Different systems achieve coordination through different mechanisms.
-
-In many physical systems, behaviour follows stable processes governed by physical laws. When the relevant variables are known, the resulting behaviour can often be predicted with high reliability. Mechanical systems, structural engineering designs, and many physical processes operate through relationships in which outcomes follow directly from underlying rules.
-
-In such systems, coordination is effectively embedded within the structure of the system itself. The behaviour of each component follows predictable patterns determined by physical relationships. As a result, the functioning of the system does not depend on the expectations or interpretations of agents.
-
-Social systems operate under different conditions. Human behaviour cannot be fully determined in advance, and individuals may choose how to respond to situations within shared environments. Participation in social systems therefore introduces uncertainty regarding how others will act.
-
-Because future behaviour cannot be directly observed or guaranteed, participants must form expectations about how others are likely to behave. Mechanisms that allow such expectations to form become essential for sustaining coordination across time.
-
-Understanding how cooperative systems continue under these conditions of uncertainty provides the foundation for examining the emergence of trust within social systems.
+Human social systems differ in an important respect. Their continuation depends not only on structural relationships, but also on the behaviour of agents who make decisions, adapt to changing circumstances, and respond to the actions of others.
 
 ---
 
