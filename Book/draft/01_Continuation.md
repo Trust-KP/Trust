@@ -82,7 +82,7 @@ Families persist when members continue to provide care, support, and shared resp
 
 At the scale of civilizations, continuation requires the maintenance of institutions that organize collective life across generations. Legal systems, educational institutions, economic networks, and governance structures must continue to function in order for societies to persist.
 
-Unlike biological systems, however, social systems depend on the behaviour of individuals whose actions cannot be fully predicted. Participation in social systems is voluntary to varying degrees, and individuals may choose whether to contribute to shared systems or withdraw from them.
+Unlike biological or physical systems, however, social systems depend on the behaviour of individuals whose actions cannot be fully determined in advance. Participation in social systems is voluntary to varying degrees, and individuals may choose whether to contribute to shared systems or withdraw from them.
 
 The continuation of social systems therefore depends on the ongoing participation of agents whose future behaviour cannot be directly observed.
 
