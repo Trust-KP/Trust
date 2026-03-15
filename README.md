@@ -128,6 +128,15 @@ Primary document:
 Framework/Trust_Framework_v1.0.md
 
 ---
+## Copyright
+
+Copyright © 2026 Kok Pian Gew
+
+The Trust Framework and associated writings are the intellectual property of the author.
+
+The materials contained in this repository are released for public reference, academic discussion, and non-commercial research purposes.
+
+Unauthorized commercial use, reproduction, or derivative commercial work requires explicit written permission from the author.
 
 ## License
 
