@@ -90,17 +90,17 @@ The continuation of social systems therefore depends on the ongoing participatio
 
 ## Uncertainty and Participation
 
-Because individuals cannot fully observe the future behaviour of others, participation in cooperative systems occurs under conditions of uncertainty.
+Because individuals cannot directly observe the future behaviour of others, participation in cooperative systems occurs under conditions of uncertainty.
 
-When individuals enter into relationships, organizations, or institutions, they must decide whether to rely on others whose future actions cannot be guaranteed. Workers rely on employers to honour commitments, organizations rely on employees to perform responsibilities, and citizens rely on institutions to function in accordance with established rules.
+When individuals enter into relationships, organizations, or institutions, they must decide whether to rely on others whose future actions cannot be guaranteed. Workers rely on employers to honour commitments, organizations rely on employees to perform responsibilities, and citizens rely on institutions to operate in accordance with established rules.
 
-These decisions involve expectations about how others are likely to behave in the future. Yet those expectations must be formed without complete knowledge.
+These decisions involve expectations about how others are likely to behave in the future. Yet those expectations must be formed without complete knowledge of future behaviour.
 
 Despite this uncertainty, cooperative systems continue to function across complex societies. Individuals continue to participate in organizations, institutions maintain operations across generations, and economic systems coordinate the activities of millions of participants.
 
-The persistence of such systems suggests that mechanisms exist which allow participants to form expectations about the behaviour of others despite uncertainty.
+The persistence of such systems suggests that mechanisms exist which allow participants to form expectations about the behaviour of others even under conditions of uncertainty.
 
-Understanding how these expectations arise is essential for explaining how cooperative systems sustain continuation across time.
+Understanding how such expectations arise is essential for explaining how cooperative systems sustain their continuation across time.
 
 ---
 
