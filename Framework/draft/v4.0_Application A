@@ -1,0 +1,10 @@
+## Part 4 – Institutional Applications
+
+### Application A: Capability Lens – Marine Insurance Trust Market (SIM F)
+
+This section will present a detailed case study of the Trust Framework
+applied to a multi-agent marine insurance market. The SIM F model
+implements contribution, trust, credibility, credit, coordination,
+coexistent systems, and continuation in a single simulation engine.
+
+(Full technical specification and data: see Applications/CapabilityLens/SIM_F/)
