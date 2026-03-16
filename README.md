@@ -80,7 +80,7 @@ Narrative exploration of life within a trust-based civilizational system.
 Video/
 Short conceptual explanations designed for visual communication of key ideas.
 
-Simulations/
+Application/Simulation
 Agent-based models exploring institutional behaviour under trust-based coordination dynamics.
 
 ---
