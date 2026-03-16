@@ -118,6 +118,133 @@ Together, the simulation series forms a structured experimental environment for 
 
 ---
 
+Simulation Series Overview
+
+The marine insurance simulation program consists of a sequence of models that progressively introduce institutional complexity.
+
+Each simulation extends the previous model by introducing additional mechanisms governing underwriting behaviour, market coordination, and capital allocation.
+
+The progression is summarised below.
+
+|Simulation | Institutional Layer                         |
+|-----------|---------------------------------------------| 
+|SIM A      | Individual underwriting behaviour           |
+|SIM B      | Underwriting doctrine                       |
+|SIM C      | Firm-level financial structure              |
+|SIM D      | Institutional financial governance          |
+|SIM E      | Multi-agent insurance market                |
+|SIM F      | Market coordination mechanisms              |
+|SIM G      | Capital regime experimentation              |
+|SIM H      | Capital scaling and shareholder dynamicsc   |
+
+SIM A — Basic Underwriting Behaviour
+
+SIM A introduces the simplest underwriting environment.
+
+A single underwriting agent writes voyage risks across multiple
+periods. Loss outcomes generate performance signals which influence
+future underwriting decisions.
+
+The simulation explores how underwriting behaviour evolves when
+agents observe the results of previous decisions.
+
+⸻
+
+SIM B — Behavioural Doctrine
+
+SIM B introduces underwriting doctrines.
+
+Multiple behavioural strategies operate under identical risk
+conditions but apply different acceptance thresholds for risk.
+
+This allows comparison between conservative, prudential, and
+aggressive underwriting behaviour across time.
+
+⸻
+
+SIM C — Core Financial Engine
+
+SIM C establishes the core financial structure of the underwriting
+institution.
+
+The model introduces capital resources, retained profit, stochastic
+loss generation, and investment return on capital.
+
+These elements allow the simulation to represent a simplified
+insurance institution operating across repeated underwriting cycles.
+
+⸻
+
+SIM D — Institutional Financial Mechanics
+
+SIM D extends the core financial engine by introducing institutional
+mechanisms commonly observed in insurance markets.
+
+These include:
+	•	taxation and deferred tax assets
+	•	reinsurance structures
+	•	dividend policies
+	•	cyclical premium environments
+
+These mechanisms allow the model to represent a more complete
+institutional underwriting entity.
+
+⸻
+
+SIM E — Multi-Agent Insurance Market
+
+SIM E transforms the model from a single-institution environment into
+a multi-agent insurance market.
+
+Multiple underwriting institutions participate in the same voyage
+risks through proportional line allocations.
+
+Premiums, losses, and capital requirements scale according to
+participation shares.
+
+This allows market dynamics to emerge from interactions between
+institutions.
+
+⸻
+
+SIM F — Market Coordination Mechanisms
+
+SIM F introduces market-wide coordination mechanisms.
+
+These include owner renewal decisions, tenure-based allocation of
+underwriting lines, and institutional trust failure states.
+
+The model therefore captures coordination dynamics that influence the
+continuation of cooperative insurance markets.
+
+⸻
+
+SIM G — Capital Regime Experimentation
+
+SIM G explores how alternative capital regimes affect underwriting
+capacity and institutional behaviour.
+
+The simulation introduces expanded capital allocation rules which
+allow institutions to scale underwriting activity beyond the
+constraints observed in earlier models.
+
+This stage examines how capital availability influences market
+structure.
+
+⸻
+
+SIM H — Capital Scaling and Market Dominance
+
+SIM H examines the implications of extreme capital scaling within the
+insurance market.
+
+The model studies how capital accumulation and reinvestment policies
+affect institutional growth, market concentration, and the balance
+between aggressive and conservative underwriting strategies.
+
+This stage explores how capital structure can shape long-term market
+dominance.
+
 ## Role within the Trust Framework
 
 The marine insurance simulations serve as an illustrative institutional application of the Trust Framework.
