@@ -21,23 +21,34 @@ Each simulation extends the previous model by introducing additional mechanisms 
 
 ---
 
-## Directory Structure
+## Simulation Components
 
-Each simulation folder contains two types of files.
+Each simulation folder contains the following documentation.
 
 ### Specification
 
-Human-readable documentation describing the conceptual structure of the model.
+Human-readable documentation describing the conceptual structure of
+the simulation model.
+
+The specification outlines:
+
+- model objectives
+- institutional mechanisms
+- agent behaviour
+- financial and coordination rules
+- outcome metrics used to evaluate the simulation
 
 Example:
+
 SIM_F/SIM_F_Specification.md
 
 ### Implementation
 
-Executable code implementing the simulation.
+Executable implementations of the simulation models exist but are not included in this repository.
 
-Example:
-SIM_F/sim_f_engine.py
+The repository focuses on documenting the conceptual model specifications used in the research program.
+
+Simulation engines are maintained separately as part of the ongoing research environment.
 
 ---
 
