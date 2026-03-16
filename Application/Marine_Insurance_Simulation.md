@@ -42,11 +42,14 @@ The simulation series progressively introduces institutional mechanisms in order
 
 ## Institutional Evolution Perspective
 
-The marine insurance simulation program can also be interpreted as a stylised model of institutional evolution.
+The marine insurance simulation program can be interpreted as a stylised model of institutional evolution.
 
-Rather than presenting a single complex model, the simulation series introduces institutional capabilities progressively. Each stage adds a new coordination layer that allows institutions to operate under greater levels of uncertainty and market interaction.
+Rather than constructing a single complex model, the simulation series introduces institutional mechanisms progressively across a sequence of models. Each stage extends the institutional environment of the previous stage by adding a new coordination capability.
 
-This staged structure mirrors the way real-world financial institutions develop over time: from individual decision-making, to organisational governance, and eventually to coordinated market systems.
+This staged modelling approach allows the effect of individual institutional mechanisms to be examined in isolation while preserving the behavioural foundations established in earlier simulations.
+
+The structure loosely mirrors the way real-world financial institutions develop across time: from individual decision-making, to organisational governance, and eventually to coordinated market systems.
+
 
 | Simulation| Institutional Layer Introduced                                   |
 |-----------|------------------------------------------------------------------|
@@ -59,11 +62,7 @@ This staged structure mirrors the way real-world financial institutions develop 
 | SIM G     | Capital regime experimentation                                   |
 | SIM H     | Capital scaling and shareholder value dynamics                   |
 
-Viewed in this way, the simulation series illustrates how increasingly complex cooperative systems may emerge as additional coordination mechanisms are introduced.
-
-The progression therefore provides a structured experimental environment for examining how institutional rules, capital structures, and market coordination mechanisms influence long-term survival under uncertainty.
-
----
+The progression therefore provides a structured experimental environment for examining how underwriting behaviour, institutional rules, capital structures, and market coordination mechanisms influence the survival and evolution of cooperative insurance markets operating under conditions of uncertainty.
 
 ## Simulation Development Structure
 
@@ -280,7 +279,9 @@ SIM_F/
 SIM_G/
 SIM_H/
 
-Each simulation directory contains the relevant specification and implementation files used to generate the simulation outputs.
+Each simulation directory contains the relevant model specification describing the conceptual structure and mechanisms of the simulation.
+
+Executable implementations used to generate the simulation outputs are maintained separately as part of the research environment and are not included in this repository.
 
 ---
 
