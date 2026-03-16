@@ -1,4 +1,4 @@
-# Marine Insurance Market Simulation
+# Marine Insurance Institutional Simulation Program
 ### Application of the Trust Framework
 
 ---
@@ -121,19 +121,6 @@ Simulation Series Overview
 The marine insurance simulation program consists of a sequence of models that progressively introduce institutional complexity.
 
 Each simulation extends the previous model by introducing additional mechanisms governing underwriting behaviour, market coordination, and capital allocation.
-
-The progression is summarised below.
-
-|Simulation | Institutional Layer                         |
-|-----------|---------------------------------------------| 
-|SIM A      | Individual underwriting behaviour           |
-|SIM B      | Underwriting doctrine                       |
-|SIM C      | Firm-level financial structure              |
-|SIM D      | Institutional financial governance          |
-|SIM E      | Multi-agent insurance market                |
-|SIM F      | Market coordination mechanisms              |
-|SIM G      | Capital regime experimentation              |
-|SIM H      | Capital scaling and shareholder dynamicsc   |
 
 SIM A — Basic Underwriting Behaviour
 
@@ -278,9 +265,20 @@ SIM_F/
 SIM_G/
 SIM_H/
 
-Each simulation directory contains the relevant model specification describing the conceptual structure and mechanisms of the simulation.
+Each simulation directory documents the conceptual structure of the corresponding model within the simulation program.
 
-Executable implementations used to generate the simulation outputs are maintained separately as part of the research environment and are not included in this repository.
+Executable implementations used to generate experimental runs are maintained separately as part of the research environment and are not included in this repository.
+
+---
+
+## Model Documentation Policy
+
+The materials in this repository describe the conceptual structure of the marine insurance simulation program.
+
+Detailed model specifications and executable simulation engines used to generate experimental results are maintained separately as part of the ongoing research environment and are not included in this repository.
+
+The objective of the public repository is to document the conceptual research program and its relationship to the Trust Framework rather
+than to disclose the full technical implementation of the simulation models.
 
 ---
 
