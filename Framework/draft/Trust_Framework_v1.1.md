@@ -148,7 +148,8 @@ Continuation is constantly challenged by uncertainty and entropy. Environmental 
 
 Within this framework, contribution can be interpreted as any action or event that alters the continuation capacity of a system. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
 
-Because future continuation cannot be observed directly, agents must interpret signals derived from past contribution events when making decisions under uncertainty. These signals form the informational basis from which expectations about future cooperation are constructed.
+Because future continuation cannot be observed directly, agents must interpret signals derived from past contribution events when making decisions under uncertainty. These observed contribution outcomes (directly or via signals) form the informational basis from which expectations about future cooperation are constructed.
+
 Trust arises when agents interpret contribution signals as evidence that cooperative behaviour is likely to continue. Trust therefore functions as an interpretive signal rather than a directly observable quantity. When multiple trust signals are aggregated across interactions and observers, they form credibility assessments that guide decision-making.
 
 Credit then emerges as the operational deployment of credibility, enabling agents to extend cooperation, delegation, or obligation based on expectations about future continuation.
