@@ -98,12 +98,11 @@ Because the future cannot be directly observed, agents rely on signals derived f
 Trust therefore functions as the interpretive mechanism that allows agents to translate 
 observed signals into expectations about the continuation of behaviour.
 
+# 2	LAYERED STRUCTURE OF THE FRAMEWORK
 
-# ONTOLOGICAL LAYER (Primitives)
+## 2. ONTOLOGICAL LAYER (Primitives)
 
-# 2.	LAYERED STRUCTURE OF THE FRAMEWORK
-
-## Contribution
+### Contribution
 
 Actions that affect the stability, reliability, or welfare of others within a coexistence system.
 
@@ -111,7 +110,7 @@ Contribution events generate observable outcomes that accumulate into contributi
 
 These histories form the informational substrate from which cooperative systems observe and interpret behaviour.
 
-## Observation
+### Observation
 
 Access to contribution outcomes, whether through direct experience, records, or other means.
 
@@ -119,15 +118,15 @@ Observation provides the informational basis available to agents when forming ex
 
 Observation may be incomplete, delayed, or imperfect.
 
-## Continuation
+### Continuation
 
 The persistence of cooperative systems across time.
 
 Continuation depends on the stability of trust interpretations, because only credible expectations allow agents, institutions, and societies to maintain coordinated behaviour.
 
-## OPERATIONAL LAYER (Derived Structures)
+## 2.2 OPERATIONAL LAYER (Derived Structures)
 
-## Signals
+### Signals
 
 Observable consequences produced by contribution events.
 
@@ -135,7 +134,7 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
-## Trust Interpretation
+### Trust Interpretation
 
 The mechanism through which agents interpret signals in order to form expectations about future behaviour.
 
