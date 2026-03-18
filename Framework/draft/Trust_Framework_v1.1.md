@@ -120,49 +120,19 @@ Contribution events generate observable outcomes that accumulate into contributi
 
 These histories form the informational substrate from which cooperative systems interpret behaviour. 
 
-# 3.  Information Layer (First Operational Layer)
+## Observation 
 
-## Observation / Record
+Access to contribution outcomes, whether through direct experience, records, or other means. Observation provides the raw informational basis for forming expectations about future behaviour. Observation may be incomplete, delayed, or imperfect, giving rise to uncertainty.
 
-Contribution events generate outcomes that may be observed, recorded, or otherwise made accessible to agents.
+## 2.1 INFORMATIONAL STRUCTURES (Derived)
 
-Observation represents the accessible information derived from past contribution events.
+### Signals
 
-It may include direct experience, recorded data, institutional reporting, or other forms of accessible records.
+Compressed or transmissible representations of observed contribution outcomes. Signals become necessary when direct observation is unavailable and information must circulate across agents or systems. Signals are not primitive but emerge from observation in complex cooperative environments.
 
-In some cases, observed information may be encoded into signals for transmission, storage, or communication across agents or systems.
+### Trust Interpretation
 
-Such signals are representations of observation and are not required for the framework to function.
-
-Observation does not alter contribution itself, but provides the informational basis upon which agents form expectations about future behaviour.
-
-Importantly, observation may be incomplete, delayed, or imperfect.
-
-As a result, the observed record of contribution may differ from the underlying contribution that has actually occurred.
-
-This gap between contribution and observation gives rise to uncertainty within cooperative systems.
-
-# 4. Expectation and Trust
-
-## Expectation
-
-Because future contribution cannot be directly observed, agents form expectations about future behaviour based on observed contribution outcomes.
-
-Expectation represents an inferred projection of how an agent is likely to act in the future, given the available observational record.
-
-Expectation is not directly observable and does not function as a primitive within the framework.
-
-## Trust
-
-Trust is a real-time coordination mechanism that enables agents to act despite uncertainty regarding future contribution.
-
-Trust operates on expectations formed from observed contribution, allowing decisions to be made in the absence of direct knowledge of future behaviour.
-
-More specifically, trust reflects an expectation that an agent’s continuation capacity will persist sufficiently into the future to support cooperative action.
-
-This continuation capacity depends on the stability of underlying conditions, including the persistence of the agent, its ability to perform actions, the structures that constrain behaviour, and its coordination with the surrounding system.
-
-Trust therefore enables coordination despite the temporal absence of future contribution.
+The process through which agents map observed contribution outcomes (or signals) into expectations about future behaviour. Interpretation converts informational access into coordination-enabling expectations under uncertainty.
 
 ---
 
