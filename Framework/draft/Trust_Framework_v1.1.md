@@ -134,6 +134,18 @@ Compressed or transmissible representations of observed contribution outcomes. S
 
 The process through which agents map observed contribution outcomes (or signals) into expectations about future behaviour. Interpretation converts informational access into coordination-enabling expectations under uncertainty.
 
+## 2.2 Dual Definition of Trust
+
+### Ontological Definition
+
+Trust is the real-time resolution of coordination under temporal absence.
+
+It exists because future contribution cannot be directly observed, yet coordination decisions cannot be deferred.
+
+### Operational Definition
+
+In practice, trust arises when agents use interpreted observations (or signals) of past contribution to form expectations about future behaviour, and rely on those expectations to support coordination.
+
 ### Key Insight
 
 Trust exists because future contribution is absent, yet coordination cannot wait.
