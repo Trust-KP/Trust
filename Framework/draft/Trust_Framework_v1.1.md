@@ -10,8 +10,8 @@ Version: 1.1
 Year: 2026  
 Status: Working Paper
 
-Official DOI for this release:
-https://doi.org/10.5281/zenodo.18974211
+Official DOI for this release: [None - minor version]
+GitHub Release: https://github.com/Trust-KP/Trust/releases/tag/v1.1
 
 This document represents the canonical description of the Trust Framework
 for version 1.1 within the archived repository snapshot.
@@ -60,7 +60,6 @@ Once this boundary is crossed, temporal coordination becomes possible. Agents be
 The Trust Framework therefore describes a structural sequence through which cooperation persists across time:
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Trust → Credibility → Credit → Continuation
-
 
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers interpret signals derived from contribution history. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
@@ -138,10 +137,9 @@ Signals represent the evidence available to observers when interpreting behaviou
 
 The mechanism through which agents interpret signals in order to form expectations about future behaviour.
 
-Trust converts past signals into expectations about the continuation of cooperation.
+Trust uses interpreted observations/signals to enable coordination despite future absence.
  
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
-
 
 All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Continuation represents the condition under which a system retains sufficient structure, capability, and coordination to survive the pressures acting upon it across time.
 
