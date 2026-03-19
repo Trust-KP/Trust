@@ -39,6 +39,25 @@ Gew, Kok Pian. 2026.
 The Trust Framework: Contribution, Signals, and the Continuation of Cooperation.
 Working Paper / Private Publication. 
 
+## Version Information
+
+**Current Version:** v1.2  
+**Status:** Draft / Working Paper  
+**Author:** Kok Pian Gew  
+**Year:** 2026  
+
+## Version Information
+
+**Current Version:** v1.3_WIP
+**Status:** Draft  
+
+### Version History (Summary)
+
+- v1.3 — Origin of Trust (new chapter)
+- v1.2 — Signal Foundations & Evaluation (Ch. 8–9 added)
+- v1.1 — Primitive reorganisation (Ontology vs Operational split)
+- v1.0 — Initial framework release
+
 # Abstract
 
 Human cooperation requires agents to act despite uncertainty about the future behaviour of others. Because future actions cannot be directly observed, participants must rely on incomplete information when deciding whether to cooperate, delegate responsibility, or extend obligations over time.
